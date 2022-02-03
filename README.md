@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @therichfix
+- 👋 Hi, I'm Richard @therichfix
 - 👀 I’m interested in computer stuff. If its got a cpu in it i'm interested!
 - 🌱 I’m currently learning Ansible
 
